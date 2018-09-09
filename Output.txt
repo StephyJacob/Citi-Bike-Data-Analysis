@@ -1,0 +1,41 @@
+The route in which Citi Bikers ride most are with start and end destination displayed consecutively as below:
+West Thames St
+Vesey Pl & River Terrace
+
+Biggest trip start station is Cleveland Pl & Spring St
+
+Biggest trip end station is FDR Drive & E 35 St
+
+Biggest trip duration is 6250750 seconds
+
+Biggest Trip start time was on : 2013-07-08 16:51:40.0
+
+Biggest Trip end time was on : 2013-09-19 01:10:53.0
+
+tripduration|start station name               |end station name                 |DistanceinKm|
++------------+---------------------------------+---------------------------------+------------+
+|2440        |Lafayette Ave & Fort Greene Pl   |2 Ave & E 58 St                  |8           |
+|1541        |Little West St & 1 Pl            |12 Ave & W 40 St                 |6           |
+|1473        |W 41 St & 8 Ave                  |Broadway & Battery Pl            |6           |
+|1870        |St James Pl & Pearl St           |Central Park S & 6 Ave           |6           |
+|2025        |Clark St & Henry St              |W 44 St & 5 Ave                  |6           |
+|497         |W 20 St & 7 Ave                  |Atlantic Ave & Fort Greene Pl    |6           |
+|1608        |W 56 St & 6 Ave                  |Greenwich St & Warren St         |6           |
+|1712        |Willoughby Ave & Walworth St     |Lafayette St & E 8 St            |5           |
+|214         |Warren St & Church St            |W 42 St & 8 Ave                  |5           |
+|2181        |6 Ave & W 33 St                  |Henry St & Poplar St             |5           |
+
+Start station and End station of the longest trip based on distance travelled are : Lafayette Ave & Fort Greene Pl and 2 Ave & E 58 St
+
+Most 10 popular stations are: 
+Pershing Square N
+E 17 St & Broadway
+8 Ave & W 31 St
+Lafayette St & E 8 St
+W 20 St & 11 AveE 17 St & Broadway
+8 Ave & W 31 St
+Lafayette St & E 8 St
+W 20 St & 11 Ave
+West St & Chambers St
+
+Most rides where taken on Wednesday and the total ride taken are: 777024
